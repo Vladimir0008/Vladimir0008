@@ -12,8 +12,8 @@
 <div>
     - :books: I'm a student of hillel IT school.
 </div>
-<div>
-    - 🔭 I’m currently working on interesting project </a> <ahref=https://github.com/Vladimir0008/online_shop> Online shop </a> with my classmates.
+<div>  
+    - 🔭 I’m currently working on interesting project <a href="https://github.com/Vladimir0008/online_shop">Online shop</a> with my classmates.
 </div>
 <div>
     - 🌱 I’m learning spring framework.
